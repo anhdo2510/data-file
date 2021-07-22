@@ -1,4 +1,5 @@
 
 	"disable_channels": {
-		
+		"name" : "abc-channel",
+		"id" : "ABCX123"
 	}
